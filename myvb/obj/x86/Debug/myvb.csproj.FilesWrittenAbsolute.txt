@@ -1,0 +1,6 @@
+/media/yatheesh/01D073D843E0A3B0/ubuntu/mono/csharp/myvb/myvb/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/yatheesh/01D073D843E0A3B0/ubuntu/mono/csharp/myvb/myvb/obj/x86/Debug/myvb.gtk-gui.gui.stetic
+/media/yatheesh/01D073D843E0A3B0/ubuntu/mono/csharp/myvb/myvb/bin/Debug/myvb.exe.mdb
+/media/yatheesh/01D073D843E0A3B0/ubuntu/mono/csharp/myvb/myvb/bin/Debug/myvb.exe
+/media/yatheesh/01D073D843E0A3B0/ubuntu/mono/csharp/myvb/myvb/obj/x86/Debug/myvb.exe
+/media/yatheesh/01D073D843E0A3B0/ubuntu/mono/csharp/myvb/myvb/obj/x86/Debug/myvb.exe.mdb
